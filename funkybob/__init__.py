@@ -1,4 +1,4 @@
-import collections
+from collections import abc as collections
 import functools
 import itertools
 import random
